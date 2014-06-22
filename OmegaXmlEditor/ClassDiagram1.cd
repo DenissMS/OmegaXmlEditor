@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OmegaXmlEditor.ExportForm">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAACABCAAEAEAAACAAEICEAAAEBAQhAAEAAIBIAA=</HashCode>
+      <FileName>ExportForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmegaXmlEditor.Program">
+    <Position X="10.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmegaXmlEditor.XmlConverter">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAQAAAACAAAAIABCAACAAAAAAAABABAAAAAAEAA=</HashCode>
+      <FileName>XmlConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmegaXmlEditor.XmlEditor">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEACAAAAAABAAAABBAEKQABAICDwAACAABAwAEQEAM=</HashCode>
+      <FileName>XmlEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmegaXmlEditor.XmlEditorForm">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CWCyBBmAKCgAAISTCgGGAJcCAIRDoCEEJDADoARDBAA=</HashCode>
+      <FileName>XmlEditorForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmegaXmlEditor.Properties.Resources">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAQAAAAABEAAAAQAACAAAAAABAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmegaXmlEditor.Properties.Settings">
+    <Position X="8.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OmegaXmlEditor.ПродолжениеXmlEditorForm">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <Members>
+      <Method Name="AddElement_Click" Hidden="true" />
+      <Method Name="btnAddAttr_Click" Hidden="true" />
+      <Method Name="btnRemoveAttr_Click" Hidden="true" />
+      <Method Name="cmsTreeMenu_Opening" Hidden="true" />
+      <Method Name="dgvElementAttributes_CellEndEdit" Hidden="true" />
+      <Method Name="dgvElementAttributes_CellValueChanged" Hidden="true" />
+      <Method Name="dgvElementAttributes_RowEnter" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="ExitToolStripMenuItem_Click" Hidden="true" />
+      <Method Name="ExportToolStripMenuItem_Click" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Method Name="InsertElement_Click" Hidden="true" />
+      <Property Name="IsPathDefined" Hidden="true" />
+      <Method Name="OpenToolStripMenuItem_Click" Hidden="true" />
+      <Method Name="RefreshAttributes" Hidden="true" />
+      <Method Name="RemoveElement_Click" Hidden="true" />
+      <Method Name="SaveAsToolStripMenuItem_Click" Hidden="true" />
+      <Method Name="SaveFile" Hidden="true" />
+      <Method Name="SaveToolStripMenuItem_Click" Hidden="true" />
+      <Method Name="scXmlEdit_Leave" Hidden="true" />
+      <Method Name="scXmlEdit_TextChanged" Hidden="true" />
+      <Method Name="tbElementValue_Leave" Hidden="true" />
+      <Method Name="tbElementValue_TextChanged" Hidden="true" />
+      <Method Name="tbNodeName_Leave" Hidden="true" />
+      <Method Name="tbNodeName_TextChanged" Hidden="true" />
+      <Method Name="tvXmlMap_NodeMouseClick" Hidden="true" />
+      <Method Name="ПродолжениеXmlEditorForm" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>CWCyBBmAKCgAAISTCgGGAJcCAIRDoCEEJDADoARDBAA=</HashCode>
+      <FileName>XmlEditorForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="OmegaXmlEditor.FileFormat">
+    <Position X="10.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAQAAAAAAAAgA=</HashCode>
+      <FileName>FileFormat.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
